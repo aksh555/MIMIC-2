@@ -1,0 +1,9 @@
+*.csv
+*.csv#
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.pkl
+data_analysis.py
+# IPython
+profile_default/
+ipython_config.py
