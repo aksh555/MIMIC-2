@@ -3,6 +3,14 @@
 *.ipynb_checkpoints
 */.ipynb_checkpoints/*
 *.pkl
+*.gz
+*.bin
+*.zip
+*.npy
+fastText-0.9.1
+*.tsv
+*.tmp
+pretrained_bert_tf
 data_analysis.py
 # IPython
 profile_default/
